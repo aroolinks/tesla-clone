@@ -33,6 +33,19 @@ function Home() {
         leftBtnText='Custom Order'
         rightBtnText='Existing Inventory'
       />
+      <Section
+        title='Model X'
+        description='Order Online for Toouchles Delivery'
+        backgroundImage='/solar-roof.jpg'
+        leftBtnText='Custom Order'
+        rightBtnText='Existing Inventory'
+      />
+      <Section
+        title='Model X'
+        description='Order Online for Toouchles Delivery'
+        backgroundImage='/accessories.jpg'
+        leftBtnText='Shop Now'
+      />
     </Container>
   );
 }
